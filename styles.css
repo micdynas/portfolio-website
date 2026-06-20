@@ -1,0 +1,33 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.landing-page {
+  min-height: 100vh; 
+  width: 100%;
+  background-image: url('/images/background-image.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #111827;
+}
+.navbar-brand{
+  font-size: 2rem;
+  font-weight: 700;
+}
+.M{
+  color: #F59E0B;
+}
+.nav-underline .nav-link:hover, .nav-underline .nav-link:focus {
+  border-bottom-color: #F59E0B;
+}
+.nav-underline .nav-link.active,
+.nav-underline .show > .nav-link {
+  border-bottom-color:  #F59E0B;
+}
+
+.btn-outline-warning{
+  color: white;
+}
+
+
