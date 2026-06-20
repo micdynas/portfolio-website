@@ -26,8 +26,62 @@ body{
   border-bottom-color:  #F59E0B;
 }
 
-.btn-outline-warning{
+.CV{
   color: white;
 }
+.info-section{
+  padding: 3rem 1rem;
+  width: 100%;
+  min-height:85vh ;
+  color: white;
+}
+.Description{
+  padding-top: 2rem;
 
+}
+.hello{
+font-size: 1.5rem;
+font-weight: 500;
+color: #F59E0B;
+}
+.name{
+font-size:4rem ;
+font-weight: 600;
 
+}
+.frontend{
+  font-size:2.5rem;
+  color: #0d6efd;
+  font-weight: 500;
+  padding-bottom: 0.6rem;
+
+}
+.para{
+font-size: 1.2rem;
+line-height: 1.5;
+width: 58%;
+padding-bottom: 0.6rem;
+}
+.project-btn{
+  margin-right: 0.7rem;
+  font-size: 1rem;
+  font-weight: 500;
+  padding: 0.8rem 1.4rem;
+}
+.contact-btn{
+  font-size: 1rem;
+  font-weight: 500;
+  padding: 0.8rem 1.4rem;
+  
+}
+.links{
+  height: 2rem;
+  width: 2rem;
+}
+.image-section{
+  display: flex;
+  justify-content: center;
+}
+.image{
+border-radius: 50%;
+}
