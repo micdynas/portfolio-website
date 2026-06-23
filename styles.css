@@ -1,6 +1,7 @@
 body{
   margin: 0;
   padding: 0;
+  scroll-behavior: smooth;
 }
 .landing-page {
   min-height: 100vh; 
@@ -100,6 +101,7 @@ width:13rem ;
 border-radius: 50%;
 }
 
+
 /* second section */
 .about-section{
   min-height: 100vh;
@@ -137,6 +139,7 @@ border-radius: 50%;
   display: flex;
   flex-wrap: wrap;
   gap: 2rem;
+  justify-content: space-between;
 }
 .frontend img{
   align-items: center;
@@ -147,15 +150,23 @@ border-radius: 50%;
   display: flex;
   flex-wrap: wrap;
   gap: 2rem;
+  justify-content: space-between;
 }
 .tools img{
   align-items: center;
   width: 4rem;
 }
 .tools h4, .frontend h4{
+  color: white;
   font-size: 1rem;
-  font-weight: 500;
+  font-weight: 400;
   padding-top: 0.5rem;
-  align-items: center;
+  justify-self: center;
   
 }
+.learning{
+  margin-top: 1.5rem;
+}
+
+
+/* third section */
