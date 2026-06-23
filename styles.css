@@ -104,7 +104,26 @@ border-radius: 50%;
 .about-section{
   min-height: 100vh;
   width: 100%;
-  background-color: #111827;
+  background-color: #07162f;
   color: white;
-  padding: 3rem 1rem 0rem;
+  padding: 4rem 1rem 0rem;
+}
+.border-right{
+  border-right: #15253f 2px solid;
+}
+.abt{
+  color: #F59E0B;
+  padding-right: 0.5rem;
+}
+.col-md-6 h2{
+  padding-bottom: 2rem;
+}
+.col-md-6 p{
+  font-size: 1.1rem;
+  line-height: 1.5;
+  width: 80%;
+  padding-bottom: 1rem;
+}
+.second-col{
+  padding-left: 5rem;
 }
