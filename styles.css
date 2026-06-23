@@ -127,22 +127,35 @@ border-radius: 50%;
 .second-col{
   padding-left: 5rem;
 }
+.skill-header{
+  color: #F59E0B;
+  font-size: 1.5rem;
+  font-weight: 500;
+  padding-bottom: 0.6rem;
+}
 .frontend{
   display: flex;
   flex-wrap: wrap;
-  gap: 1rem;
+  gap: 2rem;
 }
 .frontend img{
   align-items: center;
-  width: 5rem;
+  width: 4rem;
 
 }
 .tools{
   display: flex;
   flex-wrap: wrap;
-  gap: 1rem;
+  gap: 2rem;
 }
 .tools img{
   align-items: center;
-  width: 5rem;
+  width: 4rem;
+}
+.tools h4, .frontend h4{
+  font-size: 1rem;
+  font-weight: 500;
+  padding-top: 0.5rem;
+  align-items: center;
+  
 }
