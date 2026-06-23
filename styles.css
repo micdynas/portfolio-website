@@ -127,9 +127,22 @@ border-radius: 50%;
 .second-col{
   padding-left: 5rem;
 }
+.frontend{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
 .frontend img{
+  align-items: center;
   width: 5rem;
-  height: 5rem;
-  padding-bottom: 0.6rem;
 
+}
+.tools{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.tools img{
+  align-items: center;
+  width: 5rem;
 }
