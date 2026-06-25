@@ -138,7 +138,6 @@ border-radius: 50%;
 .frontend{
   display: flex;
   flex-wrap: wrap;
-  gap: 2rem;
   justify-content: space-between;
 }
 .frontend img{
@@ -149,7 +148,6 @@ border-radius: 50%;
 .tools{
   display: flex;
   flex-wrap: wrap;
-  gap: 2rem;
   justify-content: space-between;
 }
 .tools img{
@@ -176,4 +174,30 @@ border-radius: 50%;
   background-color: #000f25;
   color: white;
   padding: 4rem 1rem 0rem;
+}
+.cloud{
+  color: #F59E0B;
+}
+.project-link{
+  color:#F59E0B;
+  text-decoration: none;
+  font-size: 1.2rem;
+  font-weight: 500;
+
+}
+.card-img-top{
+  border-radius: 10px;
+}
+.column-card{
+  margin: 1rem 0rem;
+}
+.card-container{
+margin-top: 3rem;
+}
+.card{
+  background-color:#07162f;
+  border-radius: 20px;
+  padding: 0.7rem 0.7rem;
+  color: white;
+  width: 17rem;
 }
