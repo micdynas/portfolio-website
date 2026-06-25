@@ -187,6 +187,7 @@ border-radius: 50%;
 }
 .card-img-top{
   border-radius: 10px;
+  height: 9rem;
 }
 .column-card{
   margin: 1rem 0rem;
@@ -238,4 +239,14 @@ hr{
 }
 .arrow{
   color: #F59E0B;
+  padding-left: 0.5rem;
+}
+
+/* fourth section */
+.experience{
+    max-height: 80vh;
+  width: 100%;
+   background-color: #07162f;
+  color: white;
+
 }
