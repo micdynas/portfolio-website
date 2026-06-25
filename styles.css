@@ -211,5 +211,9 @@ margin-top: 2rem;
   padding: 0.2rem 0.5rem;
   margin-right: 0.3rem;
   border-radius: 5px;
-  background-color: #F59E0B;
+  background-color: #29253a;
+  color: #F59E0B;
+}
+.card-bottom{
+  
 }
