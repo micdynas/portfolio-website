@@ -244,9 +244,15 @@ hr{
 
 /* fourth section */
 .experience{
-    max-height: 80vh;
+    max-height: 100vh;
   width: 100%;
    background-color: #07162f;
   color: white;
 
+}
+.exp{
+  margin: 2rem auto;
+}
+.fa-briefcase{
+  color: #F59E0B;
 }
