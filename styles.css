@@ -271,7 +271,7 @@ color: #F59E0B;
 
 /*footer*/
 .webpage-foot{
-  min-height: 30vh;
+  min-height: 26vh;
   width: 100%;
   background-color: #000f25;
   color: white;
@@ -307,4 +307,13 @@ color: #F59E0B;
  color: white;
  font-size: 1.2rem;
 }
-
+.fa{
+  font-size: 1.5rem;
+  margin-right: 0.5rem;
+}
+.a{
+  margin-bottom: 0.4rem;
+}
+.diff{
+  color: #F59E0B;
+}
