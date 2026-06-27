@@ -244,15 +244,67 @@ hr{
 
 /* fourth section */
 .experience{
-    max-height: 100vh;
+    max-height: fit-content;
   width: 100%;
    background-color: #07162f;
   color: white;
+    padding-bottom: 1.5rem;
 
 }
 .exp{
-  margin: 2rem auto;
+  margin: 1.5rem auto;
+
 }
 .fa-briefcase{
   color: #F59E0B;
 }
+.col3{
+  padding-left: 4rem;
+}
+.txt-JRB{
+color: #F59E0B;
+}
+.txt-num{
+  color: #0d6efd;
+}
+
+
+/*footer*/
+.webpage-foot{
+  min-height: 30vh;
+  width: 100%;
+  background-color: #000f25;
+  color: white;
+  padding: 1rem 1rem 0rem;
+}
+.foot{
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+}
+.envelope{
+  font-size: 3rem;
+  color: #F59E0B;
+  padding: 1rem 0rem 1rem ;
+}
+.env-txt{
+  width:100%;
+  padding-left: 1rem;
+  padding-top: 2rem;
+}
+.env-txt p{
+  width: 100%;
+}
+.foot-row{
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 3rem;
+}
+.foot-links{
+ text-decoration: none;
+ color: white;
+ font-size: 1.2rem;
+}
+
