@@ -14,6 +14,11 @@
     line-height: 1.8;
     margin-bottom: 1.5rem;
 }
+
+.about-container {
+    margin-bottom: 0;
+    min-height: auto;
+}
 .little-heading{
     font-size: 2rem;
     padding-bottom: 1rem;
@@ -35,9 +40,6 @@
     padding: 1.5rem ;
     margin-bottom: 2rem;
     border-radius: 0.5rem;
-}
-.about-section {
-    padding-bottom: 0;
 }
 
 
